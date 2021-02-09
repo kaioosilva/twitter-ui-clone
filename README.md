@@ -3,7 +3,7 @@
 </h3>
 
 <p align="center">Responsive Twitter UI Clone (partial) for study purposes.</p>
-<p align="center">Deployed </p> <a href="https://twitter-clone-kaio.netlify.app/">here</a>
+<p align="center">Deployed <a href="https://twitter-clone-kaio.netlify.app/">here</a> </p>
 
 <p align="center">
   <a href="#-technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
